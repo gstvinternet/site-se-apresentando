@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 26px;
+}
+
+h1 {
+    height: 650px;
+}
+
+img {
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
