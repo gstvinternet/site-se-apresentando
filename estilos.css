@@ -1,0 +1,8 @@
+.cabecalho {
+    display:flex;
+    justify-content: center;
+}
+
+.logo {
+    width:444px;
+}
